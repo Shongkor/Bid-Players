@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "603bea049f58bccfbab58d91",
+        "picture": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mushfiqur-Rahim-CWC19.ashx",
+        "name": "Mushfiqur Rahim",
+        "price": 3579
+    },
+    {
+        "_id": "603bea04d64646db81wbaabb",
+        "picture": "https://sportsmatik.com/uploads/world-events/players/brett-lee_1564558822.jpg",
+        "name": "Brate lee",
+        "price": 3907
+    },
+    {
+        "_id": "603bea04b05d1241d16f8a39",
+        "picture": "https://www.biographybd.com/wp-content/uploads/2012/07/TamimIqbal.gif",
+        "name": "Tamim Iqbal",
+        "price": 3031
+    },
+    {
+        "_id": "603bea04626918939e69ec8e",
+        "picture": "https://static.toiimg.com/thumb/msid-53058623,width-800,height-600,resizemode-75/53058623.jpg",
+        "name": "Soaib Akter",
+        "price": 2326
+    },
+    {
+        "_id": "603bea04520e03b9d4fb9865",
+        "picture": "https://biographybd.com/wp-content/uploads/2012/07/mashrafee.gif",
+        "name": "Masrafee",
+        "price": 3864
+    },
+    {
+        "_id": "603bea04d64646db81ebaabb",
+        "picture": "https://cricdost.com/blog/wp-content/uploads/2019/01/rohit-sharma.png",
+        "name": "Rohith sarma",
+        "price": 3907
+    },
+    {
+        "_id": "603bea048dd94afeb7e0a4a4",
+        "picture": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mahmudullah-CWC19.ashx",
+        "name": "Mahmudullah",
+        "price": 5741
+    },
+    {
+        "_id": "603bea04784aaf73d912e7c4",
+        "picture": "https://lh3.googleusercontent.com/proxy/TTDYqBUYCod2V-MoC6cqHYabsAuT9GDtwesFkZxPNYNnhpBlpfbeTEt24Jb_Do3TOdAwCdgjVHoLMFPbFff5C9e41JapiccmFgYlZaUei38UX5cOg7hBVrA26Fq46t_6hozPdaO4eIWtCku64pbh9iqf",
+        "name": "Sakib Al Hasan",
+        "price": 2474
+    },
+    {
+        "_id": "803bea04626918939e69ec0e",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzyXYuoUiSRqN3ZwnOA4bQYEHPtI_vbrQ2rg&usqp=CAU",
+        "name": "Stive Smith",
+        "price": 2326
+    },
+    {
+        "_id": "603bea64ca4f9fd5368ce65a",
+        "picture": "https://haircutsz.com//wp-content/gallery/mustafizur-rahman/Mustafizur-Rahman-Hairstyles3.jpg",
+        "name": "Mustafizur Rahman",
+        "price": 3920
+    },
+    {
+        "_id": "603bea04d64646ds81ebaabb",
+        "picture": "https://ss.thgim.com/cricket/article30694392.ece/alternates/FREE_380/Chris-Gayle",
+        "name": "Chris-Gayle",
+        "price": 2567
+    },
+    {
+        "_id": "603bea040c3682c37d839037",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBGpuxlqCLCXI7JxcncnoiDPPWT8tPvgp5IQ&usqp=CAU",
+        "name": "David warner",
+        "price": 1956
+    }
+]

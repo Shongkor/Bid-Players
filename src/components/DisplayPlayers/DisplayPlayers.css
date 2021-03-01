@@ -1,0 +1,12 @@
+.displayPlayers{
+    display: flex;
+}
+.cart{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.players-container{
+    width: 65%; 
+    margin: 10px 15px;  
+    border-right: 1px solid grey;
+}

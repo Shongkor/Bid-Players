@@ -1,0 +1,17 @@
+.heading{
+    text-align: center;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.973);
+   margin-bottom: 18px;
+}
+.number{
+    color: rgb(255, 6, 6);
+    font-size: 26px;
+    margin-bottom: 18px;
+}
+li{
+    padding: 20px;
+}
+.budget{
+    border-top: 2px solid black;
+}
